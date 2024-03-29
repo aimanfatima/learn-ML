@@ -8,13 +8,13 @@ To get started, I plan to complete the [Andrew NG's ML specialization in courser
 2. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
-This repository will have my notes (arranged weekly and by topic), a to-do list (following the course order), and my progress updates.
+This repository will have my notes (arranged weekly and by topic), a to-do list (following the course order), and my progress updates. Feel free to copy this README if you wanna track your own progress.
 
-## Supervised Machine Learning: Regression and Classification
+## Course - 1 : Supervised Machine Learning: Regression and Classification
 
 - [ ] Week 1
     - [ ] Overview of Machine Learning
-        - [ ] Welcome to machine learning!
+        - [x] Welcome to machine learning!
         - [ ] Applications of machine learning
     - [ ] Supervised vs. Unsupervised Machine Learning
         - [ ] What is ML
