@@ -10,9 +10,9 @@ To get started, I plan to complete the [Andrew NG's ML specialization in courser
 
 This repository will have my notes (arranged weekly and by topic), a to-do list (following the course order), and my progress updates.
 
-[ ] Supervised Machine Learning: Regression and Classification
+## [ ] Supervised Machine Learning: Regression and Classification
 
-- [ ] week 1
+- [ ] Week 1
     - [ ] Overview of Machine Learning
         - [ ] Welcome to machine learning!
         - [ ] Applications of machine learning
