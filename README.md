@@ -13,16 +13,16 @@ This repository will have my notes (arranged weekly and by topic), a to-do list 
 ## Course - 1 : Supervised Machine Learning: Regression and Classification
 
 - [ ] Week 1
-    - [ ] Overview of Machine Learning
+    - [x] Overview of Machine Learning
         - [x] Welcome to machine learning!
-        - [ ] Applications of machine learning
+        - [x] Applications of machine learning
     - [ ] Supervised vs. Unsupervised Machine Learning
-        - [ ] What is ML
-        - [ ] Supervised Learning Part 1
-        - [ ] Supervised Learning Part 2
-        - [ ] Unsupervised Learning Part 1
-        - [ ] Supervised Learning Part 2
-        - [ ] Jupyter Notebooks
+        - [x] What is ML
+        - [x] Supervised Learning Part 1
+        - [x] Supervised Learning Part 2
+        - [x] Unsupervised Learning Part 1
+        - [x] Supervised Learning Part 2
+        - [x] Jupyter Notebooks
 
 
 
