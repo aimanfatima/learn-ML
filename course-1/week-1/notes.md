@@ -29,6 +29,7 @@
         - Class/category terms are used to denote output.
         - Predicting cat or dog.
         - Small number of possible outcomes.
+        - ![alt text](image/image.png)
 
 ### Unsupervised Learning
 
